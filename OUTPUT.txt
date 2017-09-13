@@ -1,0 +1,10 @@
+Name: Danielle DeLooze
+Email: ddelooze@u.rochester.edu
+Student ID: 29493487
+Date: 4/29/2017
+Project: Project 4
+
+OUTPUT(Shortest Path):
+Weighted Path: 
+GOERGEN-ATHLETIC i54 i30 i33 WILSON RETTNER i39 TUNNEL-MOREY TUNNEL-HOYT i65 i66 i68 i70 i75 CSB 
+0.3498941532324414
